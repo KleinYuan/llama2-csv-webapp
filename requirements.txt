@@ -1,0 +1,4 @@
+pandas==1.5.3
+pandasai==1.5.15
+streamlit==1.24.1
+text-generation==0.6.1
